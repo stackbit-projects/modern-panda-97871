@@ -1,0 +1,965 @@
+stackbitVersion: ~0.3.0
+dataDir: i18n
+models:
+  ar:
+    type: data
+    label: Ar
+    file: ar.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_q5rasetqo9
+        - object_64vt8km2zk
+  bg:
+    type: data
+    label: Bg
+    file: bg.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_2cp8bg74pi
+        - object_doxrxwau5r
+  bn:
+    type: data
+    label: Bn
+    file: bn.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_25zsir5iwn
+        - object_9q9fpbo27y
+  ca:
+    type: data
+    label: Ca
+    file: ca.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_a31434po0m
+        - object_ijuzovh04c
+  de:
+    type: data
+    label: De
+    file: de.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_fdmv84ryv4
+        - object_bb89bjjn4t
+  en:
+    type: data
+    label: En
+    file: en.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_wpveifawzm
+        - object_aby4b23qvy
+  eo:
+    type: data
+    label: Eo
+    file: eo.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_2hyv3pzw6k
+        - object_el49ohpoxv
+  es:
+    type: data
+    label: Es
+    file: es.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_djwf06p2sm
+        - object_oxxkoisr2l
+  fa:
+    type: data
+    label: Fa
+    file: fa.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_jhi7vbems6
+        - object_i7bp3jcwml
+  fr:
+    type: data
+    label: Fr
+    file: fr.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_ta7crcfupr
+        - object_5w24p4vz44
+  he:
+    type: data
+    label: He
+    file: he.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_zo2h59cgb6
+        - object_uutmzk28j2
+  hi:
+    type: data
+    label: Hi
+    file: hi.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_0qs2vy0oq7
+        - object_3u6aga1qmg
+  hu:
+    type: data
+    label: Hu
+    file: hu.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_bayhl1nzdo
+        - object_egctfxlxlp
+  id:
+    type: data
+    label: Id
+    file: id.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_sutuuqi3xk
+        - object_eukjgwo00e
+  it:
+    type: data
+    label: It
+    file: it.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_6qcn4fubiq
+        - object_0o13i8ydlr
+  ja:
+    type: data
+    label: Ja
+    file: ja.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_3ur0rtqw6d
+        - object_n3ki0cw9z2
+  ko:
+    type: data
+    label: Ko
+    file: ko.yaml
+    isList: true
+    items:
+      type: object
+      fields:
+        - type: string
+          name: id
+          label: Id
+        - type: string
+          name: translation
+          label: Translation
+  mn:
+    type: data
+    label: Mn
+    file: mn.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_oy7961ctw2
+        - object_wb6fo9iqb0
+  nl:
+    type: data
+    label: Nl
+    file: nl.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_mtt46zjtxc
+        - object_n7h841uqzc
+  pl:
+    type: data
+    label: Pl
+    file: pl.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_2rslhjbt9a
+        - object_5vqa58dz9u
+  pt:
+    type: data
+    label: Pt
+    file: pt.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_9m5lqq0ce1
+        - object_oegvhnbqnk
+  ru:
+    type: data
+    label: Ru
+    file: ru.yaml
+    isList: true
+    items:
+      type: object
+      fields:
+        - type: string
+          name: id
+          label: Id
+        - type: string
+          name: translation
+          label: Translation
+  tr:
+    type: data
+    label: Tr
+    file: tr.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_t08txfvo44
+        - object_em9yl8rfwl
+  uk:
+    type: data
+    label: Uk
+    file: uk.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_oehf1o57wt
+        - object_5t43oei2ul
+  uz:
+    type: data
+    label: Uz
+    file: uz.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_dnupr4uhxb
+        - object_zhxtogq0t0
+  vi:
+    type: data
+    label: Vi
+    file: vi.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_enx57b8vad
+        - object_iiw37kmyzu
+  zh:
+    type: data
+    label: Zh
+    file: zh.yaml
+    isList: true
+    items:
+      type: model
+      models:
+        - object_dhogkazywl
+        - object_pehyvdm9mk
+  object_q5rasetqo9:
+    type: object
+    label: Object 1
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_64vt8km2zk:
+    type: object
+    label: Object 2
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: two
+            label: Two
+          - type: string
+            name: few
+            label: Few
+          - type: string
+            name: zero
+            label: Zero
+          - type: string
+            name: other
+            label: Other
+  object_2cp8bg74pi:
+    type: object
+    label: Object 3
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_doxrxwau5r:
+    type: object
+    label: Object 4
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_25zsir5iwn:
+    type: object
+    label: Object 5
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_9q9fpbo27y:
+    type: object
+    label: Object 6
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_a31434po0m:
+    type: object
+    label: Object 7
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_ijuzovh04c:
+    type: object
+    label: Object 8
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_fdmv84ryv4:
+    type: object
+    label: Object 9
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_bb89bjjn4t:
+    type: object
+    label: Object 10
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_wpveifawzm:
+    type: object
+    label: Object 11
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_aby4b23qvy:
+    type: object
+    label: Object 12
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_2hyv3pzw6k:
+    type: object
+    label: Object 13
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_el49ohpoxv:
+    type: object
+    label: Object 14
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_djwf06p2sm:
+    type: object
+    label: Object 15
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_oxxkoisr2l:
+    type: object
+    label: Object 16
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_jhi7vbems6:
+    type: object
+    label: Object 17
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_i7bp3jcwml:
+    type: object
+    label: Object 18
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_ta7crcfupr:
+    type: object
+    label: Object 19
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_5w24p4vz44:
+    type: object
+    label: Object 20
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_zo2h59cgb6:
+    type: object
+    label: Object 21
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_uutmzk28j2:
+    type: object
+    label: Object 22
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_0qs2vy0oq7:
+    type: object
+    label: Object 23
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_3u6aga1qmg:
+    type: object
+    label: Object 24
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_bayhl1nzdo:
+    type: object
+    label: Object 25
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_egctfxlxlp:
+    type: object
+    label: Object 26
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_sutuuqi3xk:
+    type: object
+    label: Object 27
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_eukjgwo00e:
+    type: object
+    label: Object 28
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_6qcn4fubiq:
+    type: object
+    label: Object 29
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_0o13i8ydlr:
+    type: object
+    label: Object 30
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_3ur0rtqw6d:
+    type: object
+    label: Object 31
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_n3ki0cw9z2:
+    type: object
+    label: Object 32
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_oy7961ctw2:
+    type: object
+    label: Object 33
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_wb6fo9iqb0:
+    type: object
+    label: Object 34
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_mtt46zjtxc:
+    type: object
+    label: Object 35
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_n7h841uqzc:
+    type: object
+    label: Object 36
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_2rslhjbt9a:
+    type: object
+    label: Object 37
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_5vqa58dz9u:
+    type: object
+    label: Object 38
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_9m5lqq0ce1:
+    type: object
+    label: Object 39
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_oegvhnbqnk:
+    type: object
+    label: Object 40
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_t08txfvo44:
+    type: object
+    label: Object 41
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_em9yl8rfwl:
+    type: object
+    label: Object 42
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_oehf1o57wt:
+    type: object
+    label: Object 43
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_5t43oei2ul:
+    type: object
+    label: Object 44
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_dnupr4uhxb:
+    type: object
+    label: Object 45
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_zhxtogq0t0:
+    type: object
+    label: Object 46
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_enx57b8vad:
+    type: object
+    label: Object 47
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_iiw37kmyzu:
+    type: object
+    label: Object 48
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
+  object_dhogkazywl:
+    type: object
+    label: Object 49
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: string
+        name: translation
+        label: Translation
+  object_pehyvdm9mk:
+    type: object
+    label: Object 50
+    fields:
+      - type: string
+        name: id
+        label: Id
+      - type: object
+        name: translation
+        label: Translation
+        fields:
+          - type: string
+            name: one
+            label: One
+          - type: string
+            name: other
+            label: Other
